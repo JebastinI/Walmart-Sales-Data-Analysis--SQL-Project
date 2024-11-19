@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/dda870e1-1fe2-47ac-b1d8-504e6b341ac3)
+
+
 This SQL-based Walmart data analysis project aims to identify top-performing branches and products, optimize sales strategies using Kaggle's Walmart Sales Forecasting Competition dataset.
 
 **Walmart-Sales-Data-Analysis--SQL-Project**
