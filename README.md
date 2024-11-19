@@ -1,18 +1,22 @@
 ![image](https://github.com/user-attachments/assets/dda870e1-1fe2-47ac-b1d8-504e6b341ac3)
-# Walmart-Sales-Data-Analysis--SQL-Project
 This SQL-based Walmart data analysis project aims to identify top-performing branches and products, optimize sales strategies using Kaggle's Walmart Sales Forecasting Competition dataset.
 
 **Walmart-Sales-Data-Analysis--SQL-Project**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **About**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 We are analysing Walmart's sales data to identify high-performing branches and products, analyze the sales patterns of various products, and understand customer behavior. The primary objective is to enhance and optimize sales strategies. The dataset utilized in this project is sourced from the Kaggle Walmart Sales Forecasting Competition.
 
 **Purposes of the Project**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The main goal of this project is to gain understanding from Walmart's sales data, exploring the various factors that influence sales across different branches.
 
 **About Data**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project's data was obtained from the Kaggle Walmart Sales Forecasting Competition and it encompasses sales transactions from three Walmart branches situated in Mandalay, Yangon, and Naypyitaw, respectively. The data contains 17 columns and 1000 rows:
 
 **Column	Description	Data Type**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 invoice_id	Invoice of the sales made	VARCHAR(30)
 branch	Branch at which sales were made	VARCHAR(5)
 city	The location of the branch	VARCHAR(30)
